@@ -12,3 +12,9 @@ h1 {
   font-size: 88px;
   text-shadow: 5px 4px 5px #aaa;
 }
+
+p.function {
+  font-family: 'Courier New', monospace;
+  font-size: 38px; 
+  text-align: centre;
+}
